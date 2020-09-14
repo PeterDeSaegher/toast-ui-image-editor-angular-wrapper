@@ -15,7 +15,8 @@
     "@angular/core": "^7.2.7 | ^8.0.0"
   },
   "dependencies": {
-    "tui-image-editor": "^3.5.1"
+    "tui-image-editor": "https://github.com/PeterDeSaegher/tui.image-editor.git"
+
   },
   "devDependencies": {}
 }
